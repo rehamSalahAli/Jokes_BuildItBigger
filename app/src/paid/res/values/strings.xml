@@ -1,0 +1,4 @@
+<resources>
+    <string name="root_url_api" translatable="false">https://jokes-b0c68.appspot.com/_ah/api/
+    </string>
+</resources>
